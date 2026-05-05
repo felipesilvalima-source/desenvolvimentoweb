@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #a03e3e;
+  --sauro-verde: #a5c044;
+  --sauro-laranja: #f97316;
+  --h1:rgb(0, 0, 0);
+}
+
+@theme {
+  --color-sauro-verde: var(--sauro-verde);
+  --color-sauro-laranja: var(--sauro-laranja);
+}
+
+/* Forçando o fundo a respeitar sua variável */
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}

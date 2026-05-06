@@ -1,16 +1,26 @@
 Este projeto é um Protótipo de Sistema de E-commerce desenvolvido como parte integrante da formação acadêmica no curso de Engenharia de Software da Universidade de Pernambuco (UPE).
 
 O objetivo principal desta aplicação é o aprimoramento técnico e prático de conceitos fundamentais da engenharia de software, incluindo:
+
 -Arquitetura de Componentes: Organização lógica e reutilização de código com React e Next.js.
+
 -Renderização Dinâmica: Implementação de rotas e manipulação de estados no lado do cliente e servidor.
+
 -Design Responsivo: Aplicação de interfaces adaptáveis seguindo princípios de UX/UI.
+
 -Versionamento Colaborativo: Gestão de código e histórico de alterações via Git.
 
+
   Sobre o Projeto: Sangue Frio - Exotic Pets
-  A Sangue Frio é uma plataforma especializada no comércio e disseminação de informações sobre anfíbios e répteis. O sistema foca em resolver a carência de plataformas integradas que unem a venda de espécimes com guias detalhados de manejo e saúde animal.
+  
+A Sangue Frio é uma plataforma especializada no comércio e disseminação de informações sobre anfíbios e répteis. O sistema foca em resolver a carência de plataformas integradas que unem a venda de espécimes com guias detalhados de manejo e saúde animal.
+  
   Principais Desafios Técnicos Superados:
+  
 -Gerenciamento de Ativos: Estruturação de diretórios estáticos para carregamento otimizado de mídias (Imagens de produtos e suplementos).
+
 -Modularização: Separação de responsabilidades entre páginas de catálogo, cuidados específicos e interfaces de navegação.
+
 -Estilização via Utility-First: Uso de Tailwind CSS para garantir uma identidade visual única e performance de carregamento superior.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
